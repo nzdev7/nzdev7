@@ -60,20 +60,9 @@
   <details> 
     <summary><h4>Project Structure</h4></summary>
     <pre>
-    eat-now/
+    eatnow/
     │
-    ├── public/                       # Static assets served directly
-    │   ├── logo.png                 # Brand logo used in header and footer
-    │   ├── hero-slider-1.jpg        # First hero slide background
-    │   ├── hero-slider-2.jpg        # Second hero slide background
-    │   ├── hero-slider-3.jpg        # Third hero slide background
-    │   ├── service-1.jpg            # Morning Meals category image
-    │   ├── menu-1.png               # Garden Fresh Bowl menu item
-    │   ├── about-banner.jpg         # About section main image
-    │   ├── special-dish-banner.jpg  # Featured dish image
-    │   ├── testimonial-bg.jpg       # Review section background
-    │   ├── footer-bg.jpg            # Footer background image
-    │   └── (other images)           # Event cards, badges, shapes, icons
+    ├── public/                      # Logos, hero banners, menus, event images, and more
     │
     ├── src/
     │   ├── components/
@@ -128,12 +117,12 @@
     <ol>
       <li>
         <strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/nawazdevx/eat-now.git</code></pre>
+        <pre><code>git clone https://github.com/nawazdevx/eatnow.git</code></pre>
       </li>
 
       <li>
         <strong>Navigate to project folder:</strong>
-        <pre><code>cd eat-now</code></pre>
+        <pre><code>cd eatnow</code></pre>
       </li>
 
       <li>
@@ -207,7 +196,7 @@
 
   <p>
     <strong>You can view the live project here ➜</strong>
-    <a href="https://nawazdevx.github.io/eat-now/" target="_blank">
+    <a href="https://eatnow-nawazdevx.vercel.app/" target="_blank">
       <strong>Live Demo</strong>
     </a>
   </p>
