@@ -1,27 +1,20 @@
 <div>
-
   <h1>EatNow - Restaurant Website</h1>
-
   <p>
     <strong>About Project:</strong> 
     A modern restaurant landing page featuring an immersive dining experience with smooth slider animations, interactive menu displays, and a complete table reservation system. Crafted with React components and custom CSS properties for elegant theming, delivering a polished presentation that restaurants can adapt to showcase their culinary offerings, and much more.
   </p>
-
   <p> 
     <strong>What I learned:</strong>
     Built a complete React application using Vite for fast development, implemented complex CSS animations with keyframes and transitions, managed component state for interactive elements like sliders and navigation, and structured scalable component architecture for maintainable code, and much more.
   </p>
-
   <p> 
     <strong>Personal Note:</strong>
     I began my web development journey in 2022, focusing on learning fundamentals before sharing my work on GitHub. Currently I'm building <strong>Full Stack applications</strong> and seeking opportunities as a <strong>Frontend Developer</strong> or <strong>Full Stack Developer</strong>. Thank You!
   </p>
-
 </div>
-
 <details open> 
   <summary><h2>Project More Details</h2></summary>
-
   <details> 
     <summary><h4>What's Inside</h4></summary>
     <ul>
@@ -39,7 +32,6 @@
       <li><strong>Footer</strong> - Newsletter signup, contact details, social links, and back-to-top button</li>
     </ul>
   </details>
-
   <details> 
     <summary><h4>Technologies Used</h4></summary>
     <ul>
@@ -54,14 +46,12 @@
       <li><strong>ESLint</strong> - Code quality and consistency checking</li>
     </ul>
   </details>
-
   <details> 
     <summary><h4>Project Structure</h4></summary>
     <pre>
 eat-now/
 │
-├── public/
-│   └── images/                # Hero banners, menu photos, event images, icons
+├── public/                   # Hero banners, menu photos, event images, icons
 │
 ├── src/
 │   ├── components/
@@ -89,7 +79,6 @@ eat-now/
 └── README.md                 # Project documentation
     </pre>
   </details>
-
   <details> 
     <summary><h4>Key Features</h4></summary>
     <ul>
@@ -108,7 +97,6 @@ eat-now/
       <li><strong>Dark Theme Design</strong> - Sophisticated black and gold color scheme</li>
     </ul>
   </details>
-
   <details> 
     <summary><h4>Quick Start</h4></summary>
     <ol>
@@ -163,19 +151,15 @@ Copy
       <li><strong>Animations:</strong> Adjust timing in <code>@keyframes</code> sections and transition properties in CSS</li>
     </ul>
   </details>
-
 </details>
-
 <p> 
   <strong>License:</strong>
   This project is licensed under the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>.
 </p>
-
 <p> 
   <strong>Contact:</strong> 
   Connect with me on <a href="https://www.linkedin.com/in/nawazdevx">LinkedIn</a> or visit my <a href="https://nawazdevx.vercel.app/">Portfolio</a>.
 </p>
-
 <p> 
   <strong>Support:</strong> 
   Found this helpful? Give it a ⭐ on GitHub! Thank you.
