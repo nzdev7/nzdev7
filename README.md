@@ -6,4 +6,5 @@ I specialize in building **responsive mobile-first websites**, **React apps** wi
 
 I started my web development journey in **2021**, and created my first website in **2022** — focusing on learning the fundamentals before sharing my work publicly. I'm currently publishing projects on GitHub, building full-stack MERN applications, and leveling up in **TypeScript** and **advanced React patterns**.
 
-🟢 **Open to Work** — Frontend, React, or Junior Full Stack Developer roles. Full-time · Part-time · Remote · On-site. **Available immediately.**
+🟢 **Open to Work** — Frontend, React, or Junior Full Stack Developer roles. Full-time · Part-time · Remote · On-site.
+
